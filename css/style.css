@@ -119,9 +119,9 @@ body {
 
 .element{
 	position:relative;
-	background:#EEE;
+	background:#fff;
 	border:0px solid #999;
-	margin-bottom:20px;
+	margin-bottom:0px;
 	width:33.33%;
 	min-height: 350px;
 	float:left;
@@ -192,7 +192,8 @@ body {
   -o-transform: rotateY(180deg);
 	transform: rotateY(180deg);
 
-	background: tomato;
+	background: #144161;
+	color:#fff;
 }
 
 
