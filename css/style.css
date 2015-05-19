@@ -69,3 +69,53 @@ body {
 .left{float:left; margin-left: 50px; color:#5b809b;  }
 .right{float:right; margin-right: 30px; color:#5b809b;}
 .line70{line-height:70px;  font-size: 12px;}
+
+
+
+
+
+
+/*=======Other pages=======*/
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -50px;
+  min-width: 1000px;
+}
+ 
+.push {
+  height: 50px;
+}
+
+.footer{height: 50px; border-top:1px solid #eee;}
+.line50{line-height:50px; float:right;  font-size: 12px; color:#5c6165; margin-right: 60px!important;}
+
+.top_static{width: 100%; height: 60px; border-bottom:1px solid #eee;}
+.top_logo{float:left;}
+
+.static_l{height: 30px; display:block; margin-top: 15px; margin-left: 50px;}
+.nav_static{float:right; margin-right: 70px; line-height: 60px;}
+
+
+.nav_static ul{padding: 0!important; margin: 0 !important;}
+.nav_static ul li{display: inline-block; margin-left: 50px; text-transform: uppercase; }
+.nav_static ul li a{text-decoration: none; color:#144161; font-size: 14px; }
+
+.static_content{ width: 1000px; margin: 0 auto;}
+.static_header{margin-top: 100px; font-family: 'Slight'; font-size: 70px; letter-spacing: -2px; color:#f2095c; margin-bottom: 30px;}
+.static_text{font-family: 'Snormal'; font-size: 18px; line-height: 24px; width: 750px; color:#7b7f84;}
+
+
+/*======Contact========*/
+.contact_box{font-family: 'Snormal'; font-size: 18px; line-height: 24px; color:#7b7f84;}
+.cont_1{float:left; width: 500px; border-right:1px solid #eee;  }
+.cont_2{float:left; padding-left: 120px;}
+
+
+
+
+
+
+
+
