@@ -12,6 +12,7 @@ body {
     margin: 0 auto;
     height: 100%;
     width: 100%;
+    min-width: 1200px;
    
 }
 
@@ -25,6 +26,6 @@ body {
 .nav_menu ul li a{text-decoration: none; color:#fff;}
 
 .bottom{position: absolute; width: 100%; height: 70px; bottom:0; border-top:1px solid #154567;}
-.left{float:left;}
-.right{float:right;}
-.line70{line-height:70px;}
+.left{float:left; margin-left: 50px;}
+.right{float:right; margin-right: 50px;}
+.line70{line-height:70px; color:#fff; font-size: 12pt;}
