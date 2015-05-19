@@ -112,6 +112,9 @@ body {
 .cont_1{float:left; width: 500px; border-right:1px solid #eee;  }
 .cont_2{float:left; padding-left: 120px;}
 
+/*======Works=======*/
+.work_item{width: 33.33333%; min-height: 33.333333%!important; display:inline-block; position: relative; float:left; background: gray;}
+
 
 
 
