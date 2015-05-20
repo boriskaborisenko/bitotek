@@ -182,7 +182,8 @@ body {
 }
 
 .front {
-	background:red url('http://davidwalsh.name/demo/dwflip.jpgx') 0 0 no-repeat ;
+	background:gray url('http://www.sdpb.org/s/photogallery/img/no-image-available.jpg') 50% 50% no-repeat ;
+	background-size: cover;
 	z-index: 2;
 }
 
